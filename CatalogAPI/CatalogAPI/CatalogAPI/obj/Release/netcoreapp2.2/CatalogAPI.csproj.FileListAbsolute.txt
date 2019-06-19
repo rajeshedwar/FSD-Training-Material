@@ -1,0 +1,14 @@
+C:\Users\Sonu Sathyadas\Desktop\CatalogAPI\CatalogAPI\bin\Release\netcoreapp2.2\CatalogAPI.deps.json
+C:\Users\Sonu Sathyadas\Desktop\CatalogAPI\CatalogAPI\bin\Release\netcoreapp2.2\CatalogAPI.runtimeconfig.json
+C:\Users\Sonu Sathyadas\Desktop\CatalogAPI\CatalogAPI\bin\Release\netcoreapp2.2\CatalogAPI.runtimeconfig.dev.json
+C:\Users\Sonu Sathyadas\Desktop\CatalogAPI\CatalogAPI\bin\Release\netcoreapp2.2\CatalogAPI.dll
+C:\Users\Sonu Sathyadas\Desktop\CatalogAPI\CatalogAPI\bin\Release\netcoreapp2.2\CatalogAPI.pdb
+C:\Users\Sonu Sathyadas\Desktop\CatalogAPI\CatalogAPI\obj\Release\netcoreapp2.2\CatalogAPI.csprojAssemblyReference.cache
+C:\Users\Sonu Sathyadas\Desktop\CatalogAPI\CatalogAPI\obj\Release\netcoreapp2.2\CatalogAPI.csproj.CoreCompileInputs.cache
+C:\Users\Sonu Sathyadas\Desktop\CatalogAPI\CatalogAPI\obj\Release\netcoreapp2.2\CatalogAPI.RazorAssemblyInfo.cache
+C:\Users\Sonu Sathyadas\Desktop\CatalogAPI\CatalogAPI\obj\Release\netcoreapp2.2\CatalogAPI.RazorAssemblyInfo.cs
+C:\Users\Sonu Sathyadas\Desktop\CatalogAPI\CatalogAPI\obj\Release\netcoreapp2.2\CatalogAPI.AssemblyInfoInputs.cache
+C:\Users\Sonu Sathyadas\Desktop\CatalogAPI\CatalogAPI\obj\Release\netcoreapp2.2\CatalogAPI.AssemblyInfo.cs
+C:\Users\Sonu Sathyadas\Desktop\CatalogAPI\CatalogAPI\obj\Release\netcoreapp2.2\CatalogAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Sonu Sathyadas\Desktop\CatalogAPI\CatalogAPI\obj\Release\netcoreapp2.2\CatalogAPI.dll
+C:\Users\Sonu Sathyadas\Desktop\CatalogAPI\CatalogAPI\obj\Release\netcoreapp2.2\CatalogAPI.pdb
